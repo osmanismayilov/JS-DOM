@@ -1,0 +1,13 @@
+ul li{
+    cursor: pointer;
+}
+
+.selected{
+    background-color: teal;
+    color: white;
+}
+
+.list-group-item{
+    display: flex !important;
+    justify-content: space-between;
+}
